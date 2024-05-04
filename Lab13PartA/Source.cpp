@@ -64,3 +64,4 @@ void letterFrequencyAnalysis(const string& filePath) {
         cerr << "Unable to open file: " << filePath << endl;
     }
 }
+
